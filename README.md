@@ -1,4 +1,4 @@
-🚀 My HTML Learning Journey Repository
+🚀 My HTML Learning Repository
 👋 Welcome!
 
 This repository is dedicated to my journey of learning and practicing HTML. It serves as a personal workspace and portfolio where I store, test, and document my progress in mastering the fundamentals of web development.
