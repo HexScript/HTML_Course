@@ -25,4 +25,4 @@ This repository primarily contains:
 
     Learning Notes: Occasionally, I'll include simple text notes on concepts I'm currently studying.
 
-Happy Coding!
+Happy HTML Coding!
