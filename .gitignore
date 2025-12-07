@@ -1,0 +1,20 @@
+# ------------------------------------
+# 1. Operating System Files (Mandatory)
+# ------------------------------------
+
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+desktop.ini
+
+# ------------------------------------
+# 2. Common Editor/IDE Files (Optional but good practice)
+# ------------------------------------
+
+# Visual Studio Code (VS Code)
+.vscode/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
