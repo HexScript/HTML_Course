@@ -7,11 +7,11 @@ This repository is dedicated to my journey of learning and practicing HTML. It s
 
 The primary goal of this repo is simple:
 
-    To systematically learn the syntax, structure, and best practices of HTML5.
+    Learn HTML5's syntax, structure, and best practices.
 
-    To house small, focused examples and projects I create during my learning process.
+    Keep my small examples and projects in one place.
 
-    To track my understanding and growth over time.
+    Track my learning and see how I improve.
 
 📚 What You'll Find Inside
 
